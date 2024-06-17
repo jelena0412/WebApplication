@@ -1,0 +1,929 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\registracija.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\registracija.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\receptiprikaz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\receptiprikaz.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\receptiprikaz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\receptiprikaz.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|c:\\users\\jelena\\desktop\\ssa\\virutelnikuvar\\virutelnikuvar\\registracija.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\registracija.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\datalayer\\korisnikrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\datalayer\\korisnikrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\datalayer\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\datalayer\\models\\korisnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\businesslayer\\korisnikbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\businesslayer\\korisnikbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\datalayer\\models\\recept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\datalayer\\models\\recept.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\datalayer\\models\\sastojak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\datalayer\\models\\sastojak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\datalayer\\models\\stavka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\datalayer\\models\\stavka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\datalayer\\stavkarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\datalayer\\stavkarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\datalayer\\sastojakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\datalayer\\sastojakrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\datalayer\\receptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\datalayer\\receptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\businesslayer\\stavkabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\businesslayer\\stavkabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\businesslayer\\sastojakbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\businesslayer\\sastojakbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\businesslayer\\receptbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\businesslayer\\receptbusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\about.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\about.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\generatorrecapata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\generatorrecapata.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\generatorrecapata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\generatorrecapata.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\pretragarecepta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\pretragarecepta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\pretragarecepta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\pretragarecepta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\prijava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\prijava.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\prijava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\prijava.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\receptunos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\receptunos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\receptunos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\receptunos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\recipes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\sastojci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\sastojci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\saveti.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\saveti.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\saveti.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\saveti.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\statistika.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\statistika.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\statistika.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\statistika.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\userl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\userl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvartests\\businesslayertests\\korisnikbusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|solutionrelative:virutelnikuvartests\\businesslayertests\\korisnikbusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvartests\\businesslayertests\\receptbusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|solutionrelative:virutelnikuvartests\\businesslayertests\\receptbusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvartests\\businesslayertests\\sastojakbusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|solutionrelative:virutelnikuvartests\\businesslayertests\\sastojakbusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvartests\\businesslayertests\\stavkabusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|solutionrelative:virutelnikuvartests\\businesslayertests\\stavkabusinesstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvartests\\datalayertest\\sastojakrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|solutionrelative:virutelnikuvartests\\datalayertest\\sastojakrepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvartests\\datalayertest\\receptrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|solutionrelative:virutelnikuvartests\\datalayertest\\receptrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvartests\\datalayertest\\korisnikrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|solutionrelative:virutelnikuvartests\\datalayertest\\korisnikrepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvartests\\datalayertest\\stavkerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|solutionrelative:virutelnikuvartests\\datalayertest\\stavkerepositorytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VirtuelniKuvar/True/SqlTable/dbo.Sastojci.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VirtuelniKuvar/True/SqlTable/dbo.Recepts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvartests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{21AD8759-BF50-4C9F-891E-E050314D162D}|VirutelniKuvarTests\\VirutelniKuvarTests.csproj|solutionrelative:virutelnikuvartests\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\receptresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\receptresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VirtuelniKuvar/True/SqlTable/dbo.Stavke.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\datalayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\datalayer\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\default.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\site.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\site.master.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\virutelnikuvar\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDCD80C-5B3C-43C3-A46F-F63C3FB07FE6}|VirutelniKuvar\\VirutelniKuvar.csproj|solutionrelative:virutelnikuvar\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KorisnikBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\BusinessLayer\\KorisnikBusiness.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\BusinessLayer\\KorisnikBusiness.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\BusinessLayer\\KorisnikBusiness.cs",
+              "RelativeToolTip": "VirutelniKuvar\\BusinessLayer\\KorisnikBusiness.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADwvzwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:24:50.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Korisnik.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\Models\\Korisnik.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\DataLayer\\Models\\Korisnik.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\Models\\Korisnik.cs",
+              "RelativeToolTip": "VirutelniKuvar\\DataLayer\\Models\\Korisnik.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:31:24.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Receptiprikaz.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Receptiprikaz.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Receptiprikaz.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Receptiprikaz.aspx",
+              "RelativeToolTip": "VirutelniKuvar\\Receptiprikaz.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T10:41:57.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receptiprikaz.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Receptiprikaz.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Receptiprikaz.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Receptiprikaz.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Receptiprikaz.aspx.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:26:04.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Registracija.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Registracija.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Registracija.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Registracija.aspx*",
+              "RelativeToolTip": "VirutelniKuvar\\Registracija.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-13T12:51:03.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registracija.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Registracija.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Registracija.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Registracija.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Registracija.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T01:07:19.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Recept.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\Models\\Recept.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\DataLayer\\Models\\Recept.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\Models\\Recept.cs",
+              "RelativeToolTip": "VirutelniKuvar\\DataLayer\\Models\\Recept.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:31:26.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KorisnikRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\KorisnikRepository.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\DataLayer\\KorisnikRepository.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\KorisnikRepository.cs",
+              "RelativeToolTip": "VirutelniKuvar\\DataLayer\\KorisnikRepository.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwJYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:24:56.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sastojak.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\Models\\Sastojak.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\DataLayer\\Models\\Sastojak.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\Models\\Sastojak.cs",
+              "RelativeToolTip": "VirutelniKuvar\\DataLayer\\Models\\Sastojak.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:31:27.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stavka.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\Models\\Stavka.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\DataLayer\\Models\\Stavka.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\Models\\Stavka.cs",
+              "RelativeToolTip": "VirutelniKuvar\\DataLayer\\Models\\Stavka.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:31:29.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StavkaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\StavkaRepository.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\DataLayer\\StavkaRepository.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\StavkaRepository.cs",
+              "RelativeToolTip": "VirutelniKuvar\\DataLayer\\StavkaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:14:56.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SastojakRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\SastojakRepository.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\DataLayer\\SastojakRepository.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\SastojakRepository.cs",
+              "RelativeToolTip": "VirutelniKuvar\\DataLayer\\SastojakRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:13:11.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReceptRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\ReceptRepository.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\DataLayer\\ReceptRepository.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\ReceptRepository.cs",
+              "RelativeToolTip": "VirutelniKuvar\\DataLayer\\ReceptRepository.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAowLMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T11:54:36.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StavkaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\BusinessLayer\\StavkaBusiness.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\BusinessLayer\\StavkaBusiness.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\BusinessLayer\\StavkaBusiness.cs",
+              "RelativeToolTip": "VirutelniKuvar\\BusinessLayer\\StavkaBusiness.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAswDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:37:04.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SastojakBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\BusinessLayer\\SastojakBusiness.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\BusinessLayer\\SastojakBusiness.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\BusinessLayer\\SastojakBusiness.cs",
+              "RelativeToolTip": "VirutelniKuvar\\BusinessLayer\\SastojakBusiness.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T22:37:08.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ReceptBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\BusinessLayer\\ReceptBusiness.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\BusinessLayer\\ReceptBusiness.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\BusinessLayer\\ReceptBusiness.cs",
+              "RelativeToolTip": "VirutelniKuvar\\BusinessLayer\\ReceptBusiness.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAowGUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:13:45.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\About.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\About.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\About.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\About.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:49:41.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Default.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Default.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:33:01.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "About.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\About.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\About.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\About.aspx",
+              "RelativeToolTip": "VirutelniKuvar\\About.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T12:49:13.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GeneratorRecapata.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\GeneratorRecapata.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\GeneratorRecapata.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\GeneratorRecapata.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\GeneratorRecapata.aspx.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:36:25.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GeneratorRecapata.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\GeneratorRecapata.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\GeneratorRecapata.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\GeneratorRecapata.aspx",
+              "RelativeToolTip": "VirutelniKuvar\\GeneratorRecapata.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-11T06:34:41.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Default.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Default.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Default.aspx",
+              "RelativeToolTip": "VirutelniKuvar\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T13:43:33.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PretragaRecepta.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\PretragaRecepta.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\PretragaRecepta.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\PretragaRecepta.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\PretragaRecepta.aspx.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:32:31.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PretragaRecepta.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\PretragaRecepta.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\PretragaRecepta.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\PretragaRecepta.aspx",
+              "RelativeToolTip": "VirutelniKuvar\\PretragaRecepta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T10:29:09.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Prijava.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Prijava.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Prijava.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Prijava.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Prijava.aspx.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T00:57:55.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Prijava.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Prijava.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Prijava.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Prijava.aspx",
+              "RelativeToolTip": "VirutelniKuvar\\Prijava.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-11T15:47:25.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ReceptUnos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\ReceptUnos.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\ReceptUnos.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\ReceptUnos.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\ReceptUnos.aspx.cs",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAiwE4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T12:02:00.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReceptUnos.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\ReceptUnos.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\ReceptUnos.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\ReceptUnos.aspx",
+              "RelativeToolTip": "VirutelniKuvar\\ReceptUnos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T11:22:42.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Recipes.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Recipes.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Recipes.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Recipes.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Recipes.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:22:24.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Sastojci.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Sastojci.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Sastojci.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Sastojci.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Sastojci.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:21:21.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Saveti.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Saveti.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Saveti.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Saveti.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Saveti.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:21:09.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Statistika.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Statistika.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Statistika.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Statistika.aspx",
+              "RelativeToolTip": "VirutelniKuvar\\Statistika.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T23:14:24.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "KorisnikBusinessTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\BusinessLayerTests\\KorisnikBusinessTests.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvarTests\\BusinessLayerTests\\KorisnikBusinessTests.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\BusinessLayerTests\\KorisnikBusinessTests.cs",
+              "RelativeToolTip": "VirutelniKuvarTests\\BusinessLayerTests\\KorisnikBusinessTests.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwEQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:18:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ReceptBusinessTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\BusinessLayerTests\\ReceptBusinessTests.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvarTests\\BusinessLayerTests\\ReceptBusinessTests.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\BusinessLayerTests\\ReceptBusinessTests.cs",
+              "RelativeToolTip": "VirutelniKuvarTests\\BusinessLayerTests\\ReceptBusinessTests.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwGYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:44:08.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Statistika.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Statistika.aspx.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Statistika.aspx.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Statistika.aspx.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Statistika.aspx.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAA3wEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T23:14:40.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Site.Master",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Site.Master",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Site.Master",
+              "RelativeToolTip": "VirutelniKuvar\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-10T10:32:51.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Saveti.aspx",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Saveti.aspx",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Saveti.aspx",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Saveti.aspx",
+              "RelativeToolTip": "VirutelniKuvar\\Saveti.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-11T20:15:20.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UserL.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\UserL.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\UserL.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\UserL.cs",
+              "RelativeToolTip": "VirutelniKuvar\\UserL.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:18:00.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "SastojakBusinessTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\BusinessLayerTests\\SastojakBusinessTests.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvarTests\\BusinessLayerTests\\SastojakBusinessTests.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\BusinessLayerTests\\SastojakBusinessTests.cs",
+              "RelativeToolTip": "VirutelniKuvarTests\\BusinessLayerTests\\SastojakBusinessTests.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAswBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:48:15.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "StavkaBusinessTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\BusinessLayerTests\\StavkaBusinessTests.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvarTests\\BusinessLayerTests\\StavkaBusinessTests.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\BusinessLayerTests\\StavkaBusinessTests.cs",
+              "RelativeToolTip": "VirutelniKuvarTests\\BusinessLayerTests\\StavkaBusinessTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:48:50.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "SastojakRepositoryTest.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\DataLayerTest\\SastojakRepositoryTest.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvarTests\\DataLayerTest\\SastojakRepositoryTest.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\DataLayerTest\\SastojakRepositoryTest.cs",
+              "RelativeToolTip": "VirutelniKuvarTests\\DataLayerTest\\SastojakRepositoryTest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:09:04.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ReceptRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\DataLayerTest\\ReceptRepositoryTests.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvarTests\\DataLayerTest\\ReceptRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\DataLayerTest\\ReceptRepositoryTests.cs",
+              "RelativeToolTip": "VirutelniKuvarTests\\DataLayerTest\\ReceptRepositoryTests.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAkwHQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T14:12:13.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "KorisnikRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\DataLayerTest\\KorisnikRepositoryTests.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvarTests\\DataLayerTest\\KorisnikRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\DataLayerTest\\KorisnikRepositoryTests.cs",
+              "RelativeToolTip": "VirutelniKuvarTests\\DataLayerTest\\KorisnikRepositoryTests.cs",
+              "ViewState": "AQIAANYAAAAAAAAAAAAwwOgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T18:18:14.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StavkeRepositoryTests.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\DataLayerTest\\StavkeRepositoryTests.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvarTests\\DataLayerTest\\StavkeRepositoryTests.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\DataLayerTest\\StavkeRepositoryTests.cs",
+              "RelativeToolTip": "VirutelniKuvarTests\\DataLayerTest\\StavkeRepositoryTests.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAcwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T07:15:38.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "dbo.Sastojci [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VirtuelniKuvar/True/SqlTable/dbo.Sastojci.sql",
+              "ToolTip": "dbo.Sastojci [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-11T14:01:24.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "dbo.Recepts [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VirtuelniKuvar/True/SqlTable/dbo.Recepts.sql",
+              "ToolTip": "dbo.Recepts [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-13T07:01:00.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\app.config",
+              "RelativeDocumentMoniker": "VirutelniKuvarTests\\app.config",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvarTests\\app.config",
+              "RelativeToolTip": "VirutelniKuvarTests\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-13T06:42:30.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ReceptResult.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\ReceptResult.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\ReceptResult.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\ReceptResult.cs",
+              "RelativeToolTip": "VirutelniKuvar\\ReceptResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T13:55:22.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "dbo.Stavke [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/VirtuelniKuvar/True/SqlTable/dbo.Stavke.sql",
+              "ToolTip": "dbo.Stavke [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-11T14:02:15.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\DataLayer\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\DataLayer\\ApplicationDBContext.cs",
+              "RelativeToolTip": "VirutelniKuvar\\DataLayer\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T06:33:36.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Site.css",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Site.css",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Site.css",
+              "RelativeToolTip": "VirutelniKuvar\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-10T13:42:12.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Default.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Default.aspx.designer.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Default.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Default.aspx.designer.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Default.aspx.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T13:16:34.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Site.Master.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Site.Master.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Site.Master.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Site.Master.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Site.Master.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T13:22:37.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Site.Master.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Site.Master.designer.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Site.Master.designer.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Site.Master.designer.cs",
+              "RelativeToolTip": "VirutelniKuvar\\Site.Master.designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:36:17.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Web.Debug.config",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\Web.Debug.config",
+              "RelativeToolTip": "VirutelniKuvar\\Web.Debug.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-09T14:13:49.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "VirutelniKuvar\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:13:23.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "VirutelniKuvar\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Jelena\\Desktop\\ssa\\VirutelniKuvar\\VirutelniKuvar\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "VirutelniKuvar\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:13:20.594Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

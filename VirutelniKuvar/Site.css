@@ -1,0 +1,5 @@
+﻿.page-background {
+	background-image: url('~/images/Default.png');
+	background-size: cover;
+	background-position: center;
+}
